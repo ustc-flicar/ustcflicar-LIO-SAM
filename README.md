@@ -17,6 +17,8 @@ roslaunch lio_sam run.launch
 rosbag play YOUR_DATASET_FOLDER/hf001.bag
 ```
 
+*If you use the USTC FLICAR dataset in your work, please cite our work using the BibTex code on the [dataset website](https://ustc-flicar.github.io/). Please also cite LIO-SAM publications below.*
+
 # LIO-SAM
 
 **A real-time lidar-inertial odometry package. We strongly recommend the users read this document thoroughly and test the package with the provided dataset first. A video of the demonstration of the method can be found on [YouTube](https://www.youtube.com/watch?v=A0H8CoORZJU).**
